@@ -1,5 +1,5 @@
 
-[Go back to the main read me.](ReadMe.md)
+[Go back to the main read me.](README.md)
 
 # Lessons Learned Fall 2020
 
