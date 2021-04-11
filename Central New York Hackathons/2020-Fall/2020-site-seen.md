@@ -11,7 +11,7 @@ ZULU time format
 Format - flag{yyyy-mm-ddTHH:mm:SS.000Z}
 
 ## flag
-flag{2020-11-10T20:35:28.000Z}
+flag{2020-10-11T20:35:28.000Z}
 
 ## difficulty-rating
 Select One: 
