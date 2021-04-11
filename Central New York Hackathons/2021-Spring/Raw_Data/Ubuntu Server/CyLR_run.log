@@ -1,0 +1,31 @@
+2021-04-11T15:39:30 [debug] Argument OutputPath is set to .
+2021-04-11T15:39:30 [debug] Argument OutputFileName is set to jenkins_server.zip
+2021-04-11T15:39:30 [debug] Argument UserName is set to 
+2021-04-11T15:39:30 [debug] Argument UserPassword is set to [omitted in log file]
+2021-04-11T15:39:30 [debug] Argument SFTPServer is set to 
+2021-04-11T15:39:30 [debug] Argument SFTPOutputPath is set to .
+2021-04-11T15:39:30 [debug] Argument SFTPCleanUp is set to True
+2021-04-11T15:39:30 [debug] Argument CollectionFilePath is set to .
+2021-04-11T15:39:30 [debug] Argument CollectDefaults is set to False
+2021-04-11T15:39:30 [debug] Argument ZipPassword is set to [omitted in log file]
+2021-04-11T15:39:30 [debug] Argument ZipLevel is set to 9
+2021-04-11T15:39:30 [debug] Argument LogFilePath is set to ./CyLR_run.log
+2021-04-11T15:39:30 [debug] Argument DisableLogging is set to False
+2021-04-11T15:39:30 [debug] Argument EnableVerboseConsole is set to True
+2021-04-11T15:39:30 [debug] Argument Usnjrnl is set to False
+2021-04-11T15:39:30 [debug] Argument ForceNative is set to True
+2021-04-11T15:39:30 [debug] Argument DryRun is set to False
+2021-04-11T15:39:30 [debug] Argument CollectionFiles is set to 
+2021-04-11T15:39:30 [info] Gathering paths to collect
+2021-04-11T15:39:30 [debug] Enumerating patterns for default artifact collection
+2021-04-11T15:39:30 [info] Linux platform detected
+2021-04-11T15:39:30 [debug] Enumerating file systems and matching patterns
+2021-04-11T15:39:30 [debug] Enumerating volume: /
+2021-04-11T15:40:14 [info] Scanned 337004 paths
+2021-04-11T15:40:14 [info] Found 218 paths to collect
+2021-04-11T15:40:14 [info] 218 paths identified for collection
+2021-04-11T15:40:14 [debug] Set outputPath to ./jenkins_server.zip
+2021-04-11T15:40:14 [debug] Initializing archive file
+2021-04-11T15:40:14 [info] Adding files to archive
+2021-04-11T15:40:14 [debug] Set zip compression level to 9
+2021-04-11T15:40:33 [info] Collection complete. 0:31:22.1053691 elapsed
