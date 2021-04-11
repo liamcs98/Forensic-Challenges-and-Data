@@ -19,17 +19,15 @@ Select One:
 ## challenge-files
 forensics\FINAL_DRAFT_CTF_SERVER
 
-## related-ksa-ids
-# TODO
-
-### ksa-context
-# TODO
-
 ## notes
 Marked as Simple since there is no processing needed.
 
 ## Solution 
->! Answer Location forensics\FINAL_DRAFT_CTF_SERVER\Processed\LiveResponse\PWSH-Get-ProcessList.csv
->! This is an important challenge since we begin to follow the strand of the investigations.
->! The process "C:\Windows\temp\xmrig.exe" has taken up a ton of compute time compared to the rest of the processes.
->! It should stick out if you sort by the Total Processor Column in the CSV.
+>
+> Answer Location forensics\FINAL_DRAFT_CTF_SERVER\Processed\LiveResponse\PWSH-Get-ProcessList.csv
+>
+> This is an important challenge since we begin to follow the strand of the investigations.
+>
+> The process "C:\Windows\temp\xmrig.exe" has taken up a ton of compute time compared to the rest of the processes.
+>
+> It should stick out if you sort by the Total Processor Column in the CSV.

@@ -20,16 +20,11 @@ Select One:
 ## challenge-files
 forensics\FINAL_DRAFT_CTF_Workstation
 
-## related-ksa-ids
-# TODO
-
-### ksa-context
-# TODO
-
-## notes
-
 
 ## Solution 
->! This one is pretty simple and is really here to help with the final challenge payday
->! Straight chrome broswer forensics here. You just need to parse the history file.
->! Nirsoft is an easy choice https://www.nirsoft.net/utils/chrome_history_view.html
+>
+> This one is pretty simple and is really here to help with the final challenge payday
+>
+> Straight chrome broswer forensics here. You just need to parse the history file.
+>
+> Nirsoft is an easy choice https://www.nirsoft.net/utils/chrome_history_view.html

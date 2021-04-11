@@ -19,14 +19,5 @@ Select One:
 ## challenge-files
 forensics\FINAL_DRAFT_CTF_Workstation
 
-## related-ksa-ids
-# TODO
-
-### ksa-context
-# TODO
-
-## notes
-
-
 ## Solution 
 # TODO
