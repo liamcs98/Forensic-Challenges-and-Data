@@ -3,7 +3,7 @@
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AnyCon Beginner Forensics CTF.docx](./AnyCon%20Beginner%20Forensics%20CTF.docx)                                   | Solution                                                                                                                                                                                                                                                |
 | [October-AnyCon-START-HERE.md](./October-AnyCon-START-HERE.md)                             | This file                                                                                                                                                                                                                                               |
-| [Fall 2021 CNY Forensics](./WEAKSERVER.zip) | Data for the Challenges.                                                                                                                                                                                                                                |
+| [October 2019 Raw Windows data](./WEAKSERVER.zip) | Data for the Challenges.                                                                                                                                                                                                                                |
 
 
 ## Goals
