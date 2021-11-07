@@ -1,0 +1,205 @@
+CNT,ProcessName,Caption,CommandLine
+24,RuntimeBroker.exe,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding
+14,csrss.exe,csrss.exe,
+14,fontdrvhost.exe,fontdrvhost.exe,"fontdrvhost.exe"
+13,WmiPrvSE.exe,WmiPrvSE.exe,C:\Windows\system32\wbem\wmiprvse.exe
+7,wsmprovhost.exe,wsmprovhost.exe,C:\Windows\system32\wsmprovhost.exe -Embedding
+7,spoolsv.exe,spoolsv.exe,C:\Windows\System32\spoolsv.exe
+7,System Idle Process,System Idle Process,
+7,svchost.exe,svchost.exe,
+7,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+7,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+7,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS -p
+7,dwm.exe,dwm.exe,"dwm.exe"
+7,System,System,
+7,Registry,Registry,
+7,smss.exe,smss.exe,
+7,wininit.exe,wininit.exe,
+7,winlogon.exe,winlogon.exe,winlogon.exe
+7,services.exe,services.exe,
+7,lsass.exe,lsass.exe,C:\Windows\system32\lsass.exe
+7,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s ShellHWDetection
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k NetSvcs -p -s iphlpsvc
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Winmgmt
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p -s LSM
+6,ShellExperienceHost.exe,ShellExperienceHost.exe,"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+6,ctfmon.exe,ctfmon.exe,"ctfmon.exe"
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s ProfSvc
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s Themes
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s FontCache
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+6,taskhostw.exe,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -s W32Time
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s nsi
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s SENS
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s DsSvc
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s TokenBroker
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s CDPSvc
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s UsoSvc
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s UserManager
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s WinRM
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s WpnService
+6,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks
+6,sihost.exe,sihost.exe,sihost.exe
+6,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s EventSystem
+5,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc
+5,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalService -p -s LicenseManager
+5,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService
+5,msdtc.exe,msdtc.exe,C:\Windows\System32\msdtc.exe
+5,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel -p -s StateRepository
+5,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p
+5,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+5,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+5,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+5,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService -p
+5,wlms.exe,wlms.exe,C:\Windows\system32\wlms\wlms.exe
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s NlaSvc
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalService -p -s netprofm
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s UmRdpService
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs -s LanmanServer
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -s CertPropSvc
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService -p -s CryptSvc
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s SessionEnv
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s UALSVC
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wuauserv
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s gpsvc
+4,SearchUI.exe,SearchUI.exe,"C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+4,smartscreen.exe,smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding
+4,dllhost.exe,dllhost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+4,powershell.exe,powershell.exe,"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+4,explorer.exe,explorer.exe,C:\Windows\Explorer.EXE /NOUACCHECK
+4,conhost.exe,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService -p -s Dnscache
+4,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs -s TermService
+4,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p -s PlugPlay
+3,SecurityHealthService.exe,SecurityHealthService.exe,
+3,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+2,SgrmBroker.exe,SgrmBroker.exe,
+2,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc
+2,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k osprivacy -p -s camsvc
+2,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder
+2,AggregatorHost.exe,AggregatorHost.exe,AggregatorHost.exe
+2,Memory Compression,Memory Compression,
+2,SearchIndexer.exe,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted -p -s PolicyAgent
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc
+2,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k netprofm -p -s netprofm
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s LanmanServer
+2,YourPhone.exe,YourPhone.exe,"C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21084.79.0_x64__8wekyb3d8bbwe\YourPhone.exe" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca
+2,MsMpEngCP.exe,MsMpEngCP.exe,
+2,NisSrv.exe,NisSrv.exe,
+2,MsMpEng.exe,MsMpEng.exe,
+2,Microsoft.Photos.exe,Microsoft.Photos.exe,"C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s DisplayEnhancementService
+2,SecurityHealthSystray.exe,SecurityHealthSystray.exe,"C:\Windows\System32\SecurityHealthSystray.exe" 
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo
+2,StartMenuExperienceHost.exe,StartMenuExperienceHost.exe,"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+2,SearchHost.exe,SearchHost.exe,"C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+2,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" 
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+2,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc
+2,ApplicationFrameHost.exe,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+2,snmp.exe,snmp.exe,C:\Windows\System32\snmp.exe
+2,taskhostw.exe,taskhostw.exe,taskhostw.exe
+1,Everything.exe,Everything.exe,"C:\Program Files\Everything\Everything.exe" -startup
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa37fd055 /state1:0x41c64e6d
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa3bd1855 /state1:0x41c64e6d
+1,OneDrive.exe,OneDrive.exe,"C:\Users\testing\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k apphost -s AppHostSvc
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\testing\AppData\Local\Microsoft\Edge\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\testing\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=95.0.4638.54 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=95.0.1020.40 --initial-client-data=0xf0,0xf4,0xf8,0xcc,0xfc,0x7ffe63e48720,0x7ffe63e48730,0x7ffe63e48740
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --gpu-preferences=UAAAAAAAAADgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAoAAAABAAAACAAAAAAAAAAKAAAAAAAAAAwAAAAAAAAADgAAAAAAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAHAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2068 /prefetch:2
+1,explorer.exe,explorer.exe,C:\Windows\Explorer.EXE
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=35 --mojo-platform-channel-handle=6976 /prefetch:1
+1,WinRAR.exe,WinRAR.exe,"C:\Program Files\WinRAR\WinRAR.exe" 
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" 
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=1608,12756180105807403126,5438647934950712315,131072 --gpu-preferences=UAAAAAAAAADgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAoAAAABAAAACAAAAAAAAAAKAAAAAAAAAAwAAAAAAAAADgAAAAAAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAHAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1740 /prefetch:2
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1608,12756180105807403126,5438647934950712315,131072 --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1948 /prefetch:8
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1608,12756180105807403126,5438647934950712315,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2012 /prefetch:8
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=37 --mojo-platform-channel-handle=2968 /prefetch:1
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --field-trial-handle=1608,12756180105807403126,5438647934950712315,131072 --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=2656 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=33 --mojo-platform-channel-handle=3944 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2256 /prefetch:3
+1,chrome.exe,chrome.exe,"C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --display-capture-permissions-policy-allowed --field-trial-handle=1608,12756180105807403126,5438647934950712315,131072 --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --mojo-platform-channel-handle=2644 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2248 /prefetch:8
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --type=renderer --noerrdialogs --user-data-dir="C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=321.13900.0.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc" --field-trial-handle=1940,10851225098417318248,5510091635045403708,131072 --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=3364 /prefetch:1
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s lfsvc
+1,UserOOBEBroker.exe,UserOOBEBroker.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=32 --mojo-platform-channel-handle=6636 /prefetch:1
+1,LockApp.exe,LockApp.exe,"C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1940,10851225098417318248,5510091635045403708,131072 --lang=en-US --service-sandbox-type=utility --noerrdialogs --user-data-dir="C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=321.13900.0.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --mojo-platform-channel-handle=2664 /prefetch:8
+1,Microsoft.Msn.Weather.exe,Microsoft.Msn.Weather.exe,"C:\Program Files\WindowsApps\Microsoft.BingWeather_4.46.32012.0_x64__8wekyb3d8bbwe\Microsoft.Msn.Weather.exe" -ServerName:App.AppX2m6wj6jceb8yq7ppx1b3drf7yy51ha6f.mca
+1,mDNSResponder.exe,mDNSResponder.exe,"C:\Program Files\Bonjour\mDNSResponder.exe"
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa35f4055 /state1:0x41c64e6d
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s NPSMSvc
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1940,10851225098417318248,5510091635045403708,131072 --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir="C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=321.13900.0.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --mojo-platform-channel-handle=2116 /prefetch:3
+1,tv_x64.exe,tv_x64.exe,"C:\Program Files (x86)\TeamViewer\tv_x64.exe" --action hooks --log C:\Program Files (x86)\TeamViewer\TeamViewer15_Logfile.log 
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --instant-process --display-capture-permissions-policy-allowed --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --mojo-platform-channel-handle=4088 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=6860 /prefetch:8
+1,rdrleakdiag.exe,rdrleakdiag.exe,C:\Windows\system32\RdrLeakDiag.exe -p 6560 -h 25 -tp 2 -cleanup -watson -unnamed
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=19 --mojo-platform-channel-handle=2596 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=21 --mojo-platform-channel-handle=5656 /prefetch:1
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --type=gpu-process --field-trial-handle=1940,10851225098417318248,5510091635045403708,131072 --noerrdialogs --user-data-dir="C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=321.13900.0.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --gpu-preferences=UAAAAAAAAADgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAoAAAABAAAACAAAAAAAAAAKAAAAAAAAAAwAAAAAAAAADgAAAAAAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAHAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1980 /prefetch:2
+1,Widgets.exe,Widgets.exe,"C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_321.13900.0.9_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=321.13900.0.0 --user-data-dir="C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --disk-cache-size=52428800 --lang=en-US --mojo-named-platform-channel-pipe=6028.4880.11815342246943150177
+1,msedgewebview2.exe,msedgewebview2.exe,"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --type=crashpad-handler --user-data-dir=C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --metrics-dir=C:\Users\testing\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=95.0.4638.54 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\95.0.1020.40\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=95.0.1020.40 --initial-client-data=0xfc,0x100,0x104,0xd8,0x10c,0x7ffe63e48720,0x7ffe63e48730,0x7ffe63e48740
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2060,11159114236058025468,7077926006462623606,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --mojo-platform-channel-handle=3760 /prefetch:1
+1,notepad++.exe,notepad++.exe,"C:\Program Files\Notepad++\notepad++.exe" 
+1,tv_w32.exe,tv_w32.exe,"C:\Program Files (x86)\TeamViewer\tv_w32.exe" --action hooks --log C:\Program Files (x86)\TeamViewer\TeamViewer15_Logfile.log 
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs
+1,rundll32.exe,rundll32.exe,C:\Windows\system32\rundll32.exe C:\Windows\system32\pla.dll,PlaHost "Server Manager Performance Monitor" "$(Arg0)"
+1,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p
+1,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs
+1,dfsrs.exe,dfsrs.exe,C:\Windows\system32\DFSRs.exe
+1,Microsoft.ActiveDirectory.WebServices.exe,Microsoft.ActiveDirectory.WebServices.exe,C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted -p
+1,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+1,svchost.exe.exe,svchost.exe.exe,"C:\Windows\svchost.exe.exe" 
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa3fa9855 /state1:0x41c64e6d
+1,svchost.exe,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa3988055 /state1:0x41c64e6d
+1,publicpublicpublic.exe,publicpublicpublic.exe,C:\Users\Public\Documents\publicpublicpublic.exe
+1,explorer.exe,explorer.exe,C:\Windows\Explorer.EXE /NoUACCheck
+1,shell.exe,shell.exe,"C:\Temp\shell.exe" 
+1,LogonUI.exe,LogonUI.exe,"LogonUI.exe" /flags:0x0 /state0:0xa39bf855 /state1:0x41c64e6d
+1,ServerManager.exe,ServerManager.exe,"C:\Windows\system32\ServerManager.exe" 
+1,shell.exe,shell.exe,"C:\Temp\shell.exe"
+1,dns.exe,dns.exe,C:\Windows\system32\dns.exe
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=5880 /prefetch:8
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=17 --mojo-platform-channel-handle=5884 /prefetch:1
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s seclogon
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=20 --mojo-platform-channel-handle=6096 /prefetch:1
+1,OneDrive.exe,OneDrive.exe, /updateInstalled /background
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --instant-process --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --mojo-platform-channel-handle=4036 /prefetch:1
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=31 --mojo-platform-channel-handle=6760 /prefetch:1
+1,TeamViewer_Service.exe,TeamViewer_Service.exe,"C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe"
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel -p
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=22 --mojo-platform-channel-handle=3752 /prefetch:1
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+1,Everything.exe,Everything.exe,"C:\Program Files\Everything\Everything.exe" -svc
+1,ismserv.exe,ismserv.exe,C:\Windows\System32\ismserv.exe
+1,svchost.exe,svchost.exe,C:\Windows\system32\svchost.exe -k iissvcs
+1,dfssvc.exe,dfssvc.exe,C:\Windows\system32\dfssvc.exe
+1,vds.exe,vds.exe,C:\Windows\System32\vds.exe
+1,TeamViewer.exe,TeamViewer.exe,"C:\Program Files (x86)\TeamViewer\TeamViewer.exe" 
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --gpu-preferences=UAAAAAAAAADgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAoAAAABAAAACAAAAAAAAAAKAAAAAAAAAAwAAAAAAAAADgAAAAAAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAHAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2160 /prefetch:2
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2560 /prefetch:3
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=2012,8103479758613069307,6448281645507689914,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2076 /prefetch:8
+1,msedge.exe,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=95.0.4638.54 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=95.0.1020.40 --initial-client-data=0xf0,0xf4,0xf8,0xcc,0xfc,0x7fff74568720,0x7fff74568730,0x7fff74568740
